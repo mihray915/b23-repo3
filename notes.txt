@@ -17,3 +17,11 @@ remote repoitory so we can PUSHED local commits
 to remote repository using push button
 4. observe it has been added in your repository 
 under GitHub.com
+
+
+how to save adding some text in sublime on windows
+control+S OR click on file -->save
+
+we do not have to push one commit at a time 
+you can push multiple commits in one shot 
+there is no limit
